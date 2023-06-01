@@ -1,1 +1,1 @@
-api prolect
+api project
